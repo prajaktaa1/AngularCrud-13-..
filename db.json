@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "price": 90,
+      "Comment": "nice one",
+      "date": "2023-04-06T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typical"
+  }
+}
